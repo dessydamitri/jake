@@ -1,0 +1,1 @@
+var json_Rumahberlin_11 = {"type":"FeatureCollection","name":"Rumahberlin_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"9","rmh":"Rumah Berlin"},"geometry":{"type":"Point","coordinates":[101.459349217356291,-0.502553804426945]}}]}

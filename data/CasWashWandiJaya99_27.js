@@ -1,0 +1,1 @@
+var json_CasWashWandiJaya99_27 = {"type":"FeatureCollection","name":"CasWashWandiJaya99_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"14","Nama":"Cas Wash Wandi Jaya 99"},"geometry":{"type":"Point","coordinates":[101.468546574101367,-0.501249782388041]}}]}
